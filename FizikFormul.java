@@ -1,12 +1,10 @@
-/*
- * Ad Soyad: [ADINIZI BURAYA YAZIN]
- * Ogrenci No: [OGRENCI NUMARANIZI BURAYA YAZIN]
- * Tarih: [TARIHI BURAYA YAZIN]
- * Aciklama: Gorev 2 - Fizik Formulu Asistani
- *
- * Bu program temel fizik formullerini kullanarak
- * hesaplamalar yapar.
- */
+/* 
+   Ad Soyad: [FATMA TÜRKMEN ]
+   Öğrenci No: [250541063]
+   Tarih: [12.10.2025]
+   Ders: Algoritma ve Programlama
+   Konu: Geometrik Hesaplamalar
+*/
 
 import java.util.Scanner;
 
